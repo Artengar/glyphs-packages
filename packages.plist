@@ -980,6 +980,13 @@
 				url = "https://github.com/schriftgestalt/ThickerOutlines";
 				description = "Draw a bit thinker outline to stand out more over a background image";
 			},
+			{
+				name = "RhythmInfluencer.glyphsPlugin";
+				title = "Rhythm Influencer";
+				url = "https://github.com/Artengar/Glyphs_Plugins/tree/master/Rhythm_Influencer";
+				description = "The Rhythm Influencer assists with fast creating variations on (most) letters. Activate it via *Edit > Rhythm Influencer*. Read the instructions for correct use and its current development status.";
+				screenshot = "https://github.com/Artengar/Glyphs_Plugins/blob/master/Rhythm_Influencer/rhythm_influencer.jpg";
+			},
 		);
 	};
 }
